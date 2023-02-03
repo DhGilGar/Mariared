@@ -2,7 +2,8 @@
 
 body {
     font: 1rem/1.5 var(--mdb-font-sans-serif);
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color: #212529;
 }
 a {
     color: var(--mdb-blue);
@@ -72,4 +73,15 @@ a {
 	padding: 2rem;
 	border-radius: 15px;
 	
+}
+#Head_Proyect {
+	margin-top:5.5rem;
+    background: #000;
+    border-bottom: medium solid #FFFFFF;
+	border-top: medium  solid #FFFFFF;
+}
+
+
+.row.justify-content-start .col-4 img {
+    width: 100%;
 }
