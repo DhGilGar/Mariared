@@ -9,49 +9,6 @@ a {
 }
 
 
-/*-------text_styles--------*/
-
-.title_white_main {
-	color: #fff;
-	font-size: 3.5rem;
-	font-weight: bold;
-
-}
-.subtitle_white {
-	color: #fff;
-	font-size: 1rem;
-	font-style: bold;
-}
-.p {
-	color: #fff;
-	font-size: 1rem;
-	font-style: bold;	
-}
-
-.date_white {
-	color: #fff;
-	font-size: 2rem;
-	font-style: bold;	
-}
-
-
-@media (max-width: 576px) { 
-
-.title_white_main {
-	font-size: 2rem;
-
-}
-
-
-.date_white {
-	font-size: 1rem;	
-}
-
-
-
-
-}
-
 /*-------Video_home--------*/
 
 .header {
