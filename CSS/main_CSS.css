@@ -8,11 +8,7 @@ a {
     color: var(--mdb-blue);
 }
 
-#Main_container #Container {
-	
-	margin-top: 8rem;
-	height: auto;
-}
+
 /*-------text_styles--------*/
 
 .title_white_main {
@@ -29,8 +25,33 @@ a {
 .p {
 	color: #fff;
 	font-size: 1rem;
-	font-style: bold;
+	font-style: bold;	
 }
+
+.date_white {
+	color: #fff;
+	font-size: 2rem;
+	font-style: bold;	
+}
+
+
+@media (max-width: 576px) { 
+
+.title_white_main {
+	font-size: 2rem;
+
+}
+
+
+.date_white {
+	font-size: 1rem;	
+}
+
+
+
+
+}
+
 /*-------Video_home--------*/
 
 .header {
